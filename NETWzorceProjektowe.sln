@@ -58,13 +58,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tasks", "Tasks", "{CCA9D10F
 		Zadania\README.md = Zadania\README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonVault", "SingletonVault\SingletonVault.csproj", "{29379380-7899-4D71-BBF1-4E3517466520}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonVault", "SingletonVault\SingletonVault.csproj", "{29379380-7899-4D71-BBF1-4E3517466520}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarriorFactory", "WarriorFactory\WarriorFactory.csproj", "{9E2084D2-DC07-4561-9CCF-AB35A03BA455}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WarriorFactory", "WarriorFactory\WarriorFactory.csproj", "{9E2084D2-DC07-4561-9CCF-AB35A03BA455}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarriorBuilder", "WarriorBuilder\WarriorBuilder.csproj", "{804D18BB-C66A-472C-ABC5-ED25F8757504}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WarriorBuilder", "WarriorBuilder\WarriorBuilder.csproj", "{804D18BB-C66A-472C-ABC5-ED25F8757504}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrkPrototype", "OrkPrototype\OrkPrototype.csproj", "{9C2F4481-8448-4BAC-BA6C-34EDCE003489}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrkPrototype", "OrkPrototype\OrkPrototype.csproj", "{9C2F4481-8448-4BAC-BA6C-34EDCE003489}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherApiFacade", "WeatherApiFacade\WeatherApiFacade.csproj", "{AF9E3377-D751-4047-9F3D-ACD928BE2C00}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -184,6 +186,10 @@ Global
 		{9C2F4481-8448-4BAC-BA6C-34EDCE003489}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C2F4481-8448-4BAC-BA6C-34EDCE003489}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C2F4481-8448-4BAC-BA6C-34EDCE003489}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF9E3377-D751-4047-9F3D-ACD928BE2C00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF9E3377-D751-4047-9F3D-ACD928BE2C00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF9E3377-D751-4047-9F3D-ACD928BE2C00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF9E3377-D751-4047-9F3D-ACD928BE2C00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -214,7 +220,9 @@ Global
 		{4667507A-40A0-4697-B092-9EF70B3B2C73} = {590DC3CE-52ED-49F5-A16A-EE9516C15B4A}
 		{29379380-7899-4D71-BBF1-4E3517466520} = {CCA9D10F-4ABA-4A7D-A82A-5EB8A3FCAD66}
 		{9E2084D2-DC07-4561-9CCF-AB35A03BA455} = {CCA9D10F-4ABA-4A7D-A82A-5EB8A3FCAD66}
+		{804D18BB-C66A-472C-ABC5-ED25F8757504} = {CCA9D10F-4ABA-4A7D-A82A-5EB8A3FCAD66}
 		{9C2F4481-8448-4BAC-BA6C-34EDCE003489} = {CCA9D10F-4ABA-4A7D-A82A-5EB8A3FCAD66}
+		{AF9E3377-D751-4047-9F3D-ACD928BE2C00} = {CCA9D10F-4ABA-4A7D-A82A-5EB8A3FCAD66}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6B3B99B5-6B47-4565-9337-6FFB4ACF6128}
