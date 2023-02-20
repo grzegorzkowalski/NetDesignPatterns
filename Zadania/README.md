@@ -44,7 +44,7 @@
 https://learn.microsoft.com/en-us/dotnet/fundamentals/networking/http/httpclient
 
 Przyk³ad u¿ycia: 
-https://gist.githubusercontent.com/AliA1997/b4b3e1066dd9f31a78554438ab5d61bd/raw/f96783e2f907b084b399d559ada1269
+https://gist.github.com/AliA1997/b4b3e1066dd9f31a78554438ab5d61bd
 
 ## Proxy
 
