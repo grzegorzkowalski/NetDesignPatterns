@@ -58,22 +58,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tasks", "Tasks", "{CCA9D10F
 		Zadania\README.md = Zadania\README.md
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonVault", "SingletonVault\SingletonVault.csproj", "{29379380-7899-4D71-BBF1-4E3517466520}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WarriorFactory", "WarriorFactory\WarriorFactory.csproj", "{9E2084D2-DC07-4561-9CCF-AB35A03BA455}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WarriorBuilder", "WarriorBuilder\WarriorBuilder.csproj", "{804D18BB-C66A-472C-ABC5-ED25F8757504}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrkPrototype", "OrkPrototype\OrkPrototype.csproj", "{9C2F4481-8448-4BAC-BA6C-34EDCE003489}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherApiFacade", "WeatherApiFacade\WeatherApiFacade.csproj", "{AF9E3377-D751-4047-9F3D-ACD928BE2C00}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DownloadProxy", "DownloadProxy\DownloadProxy.csproj", "{B0B4B477-95CB-4C92-B446-B701159446D8}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartyAdapter", "PartyAdapter\PartyAdapter.csproj", "{FBE993A1-B32E-4457-AF9A-35C0AFC9C4C4}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgeSystemInterface", "BridgeSystemInterface\BridgeSystemInterface.csproj", "{D25141CE-6BFB-4560-8CAB-0B710BD62524}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
