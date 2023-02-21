@@ -81,6 +81,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SantaClausFactory", "SantaC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeacherObserver", "TeacherObserver\TeacherObserver.csproj", "{F7BD5FD1-7390-4B43-8BE0-292CF7DC925A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoSearchStrategy", "PhotoSearchStrategy\PhotoSearchStrategy.csproj", "{B9914FE3-EE09-4C2B-856F-4C6A05E0C726}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -227,6 +229,10 @@ Global
 		{F7BD5FD1-7390-4B43-8BE0-292CF7DC925A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7BD5FD1-7390-4B43-8BE0-292CF7DC925A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7BD5FD1-7390-4B43-8BE0-292CF7DC925A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9914FE3-EE09-4C2B-856F-4C6A05E0C726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9914FE3-EE09-4C2B-856F-4C6A05E0C726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9914FE3-EE09-4C2B-856F-4C6A05E0C726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9914FE3-EE09-4C2B-856F-4C6A05E0C726}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -265,6 +271,7 @@ Global
 		{2B746851-ED82-4021-8DE6-E3F95D8E3CE5} = {CCA9D10F-4ABA-4A7D-A82A-5EB8A3FCAD66}
 		{6478FCAE-567C-4F13-9140-C6723CDA4EAF} = {CCA9D10F-4ABA-4A7D-A82A-5EB8A3FCAD66}
 		{F7BD5FD1-7390-4B43-8BE0-292CF7DC925A} = {CCA9D10F-4ABA-4A7D-A82A-5EB8A3FCAD66}
+		{B9914FE3-EE09-4C2B-856F-4C6A05E0C726} = {CCA9D10F-4ABA-4A7D-A82A-5EB8A3FCAD66}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6B3B99B5-6B47-4565-9337-6FFB4ACF6128}
