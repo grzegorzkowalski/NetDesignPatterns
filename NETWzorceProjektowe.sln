@@ -56,6 +56,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tasks", "Tasks", "{CCA9D10F-4ABA-4A7D-A82A-5EB8A3FCAD66}"
 	ProjectSection(SolutionItems) = preProject
 		Zadania\README.md = Zadania\README.md
+		Zadania\Workshop.md = Zadania\Workshop.md
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonVault", "SingletonVault\SingletonVault.csproj", "{B4EB6160-616E-4F68-8B27-96B2601D89C8}"
@@ -71,6 +72,10 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DownloadProxy", "DownloadProxy\DownloadProxy.csproj", "{8FE556C7-D644-474E-AAD5-756BCE6713AE}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PartyAdapter", "PartyAdapter\PartyAdapter.csproj", "{2404D6B0-F174-470E-A790-CFD2723D5612}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BridgeSystemInterface", "BridgeSystemInterface\BridgeSystemInterface.csproj", "{4EB0D78D-B12D-4EA9-9387-2319503F38F5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopDecorator", "ShopDecorator\ShopDecorator.csproj", "{2B746851-ED82-4021-8DE6-E3F95D8E3CE5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -202,6 +207,14 @@ Global
 		{2404D6B0-F174-470E-A790-CFD2723D5612}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2404D6B0-F174-470E-A790-CFD2723D5612}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2404D6B0-F174-470E-A790-CFD2723D5612}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EB0D78D-B12D-4EA9-9387-2319503F38F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EB0D78D-B12D-4EA9-9387-2319503F38F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EB0D78D-B12D-4EA9-9387-2319503F38F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EB0D78D-B12D-4EA9-9387-2319503F38F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B746851-ED82-4021-8DE6-E3F95D8E3CE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B746851-ED82-4021-8DE6-E3F95D8E3CE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B746851-ED82-4021-8DE6-E3F95D8E3CE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B746851-ED82-4021-8DE6-E3F95D8E3CE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -236,6 +249,8 @@ Global
 		{4028F021-93BA-42E5-8CD3-C9A23DED7DE1} = {CCA9D10F-4ABA-4A7D-A82A-5EB8A3FCAD66}
 		{8FE556C7-D644-474E-AAD5-756BCE6713AE} = {CCA9D10F-4ABA-4A7D-A82A-5EB8A3FCAD66}
 		{2404D6B0-F174-470E-A790-CFD2723D5612} = {CCA9D10F-4ABA-4A7D-A82A-5EB8A3FCAD66}
+		{4EB0D78D-B12D-4EA9-9387-2319503F38F5} = {CCA9D10F-4ABA-4A7D-A82A-5EB8A3FCAD66}
+		{2B746851-ED82-4021-8DE6-E3F95D8E3CE5} = {CCA9D10F-4ABA-4A7D-A82A-5EB8A3FCAD66}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6B3B99B5-6B47-4565-9337-6FFB4ACF6128}
